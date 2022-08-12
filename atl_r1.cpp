@@ -4,7 +4,7 @@
  * 2. (Extension), A file can belong to multiple collections, how do you handle?
  * 3. (Extension), Collections can have parent -> child relationships and a parents size should also include child's size, how do you handle.
  *
- * Solution: Was able to fully code upto 2nd extension
+ * Solution: Was able to fully code and test upto 2nd extension
  * 3rd was orally discussed (tree rep for relationships and traversal to update sizes) (had about 2-3 mins left)
  * I offered to code the 3rd extension given another 10 mins but interviewer was satisfied with the answer. Ended discussion with some Q's on atlassian work culture.
  *
